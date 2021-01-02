@@ -1,0 +1,11 @@
+<view class="pyg_index">
+    <searchInput >
+     
+    </searchInput>
+</view>
+
+<swiper autoplay interval="2000" circular indicator-dots indicator-color="#0094ff" indicator-active-color="#ff0094">
+  <swiper-item><image mode="widthFix" src="//img.alicdn.com/imgextra/i4/O1CN01fXSASy1ixQcfygauT_!!6000000004479-0-tps-476-538.jpg"></image></swiper-item>
+  <swiper-item><image mode="widthFix" src="//img.alicdn.com/imgextra/i4/O1CN01mgRmxL1E0P6ucromm_!!6000000000289-0-tps-476-538.jpg"></image></swiper-item>
+  <swiper-item><image mode="widthFix" src="//img.alicdn.com/imgextra/i1/O1CN0194JHUw1p1uByaSzJi_!!6000000005301-0-tps-476-538.jpg"></image></swiper-item>
+</swiper>

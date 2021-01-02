@@ -1,0 +1,14 @@
+
+view{
+  /* color:var(--themeColor); */
+  font-size: 30rpx;
+}
+
+swiper{
+  width: 100%;
+  height: calc(100vw * 538 / 476);
+ }
+ image{
+   width: 100%;
+   
+ }
